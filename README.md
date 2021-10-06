@@ -5,3 +5,5 @@ This is a fantasy football projections app I made using Shiny in R. I have a few
 After you click generate new table, please wait a minute or two because their are a ton of background proccesses going on. It will look like nothing is happening but that is becasue I didn't add a "loading table" thing or anything. 
 https://spalladino14.shinyapps.io/FantasyFootballProjection/
 
+NOTE (THIS WORKED IN 2020! IT NEEDS A 2021 UPDATE) 
+
